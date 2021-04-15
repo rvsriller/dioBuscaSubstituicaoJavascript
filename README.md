@@ -26,3 +26,7 @@ Analisando e encontrando a maior substring das strings processadas
 #### [Desafio 3](3-ValidadorDeSenha.js)
 
 Verificando caracteres e validando senhas
+
+#### [Desafio 4](4-Jogo.js)
+
+Pedra, Papel, Tesoura, Lagarto e Spock
