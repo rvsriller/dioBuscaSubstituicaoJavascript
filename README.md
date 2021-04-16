@@ -16,17 +16,17 @@ Entenda o funcionamento dos métodos utilizados para solucionar alguns desafios:
 
 #### [Desafio 1](1-IntroducaoBuscaSubstituicao.js)
 
-Introdução a Busca e Substituição em Javascript
-Ordenando palavras utilizando o tamanho de caracteres
+Introdução a Busca e Substituição em Javascript.
+Ordenando palavras utilizando o tamanho de caracteres.
 
 #### [Desafio 2](1-EncontreAmaiorSubstring.js)
 
-Analisando e encontrando a maior substring das strings processadas
+Analisando e encontrando a maior substring das strings processadas.
 
 #### [Desafio 3](3-ValidadorDeSenha.js)
 
-Verificando caracteres e validando senhas
+Verificando caracteres e validando senhas.
 
 #### [Desafio 4](4-Jogo.js)
 
-Pedra, Papel, Tesoura, Lagarto e Spock
+Jogo de Pedra, Papel, Tesoura, Lagarto e Spock (Nova versão).
