@@ -7,8 +7,6 @@
     cada uma contendo uma string. Ambas strings de entrada contém entre 
     1 e 50 caracteres ('A'-'Z','a'-'z' ou espaço ' '), inclusive, ou no mínimo uma letra ('A'-'Z','a'-'z').
 
-    
-
 */
 
 let breaking = 0; //Flag de parada do algoritmo
