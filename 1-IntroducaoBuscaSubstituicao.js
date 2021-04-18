@@ -1,3 +1,19 @@
+/*
+
+    Algoritmo de ordenação de um conjunto de palavras pelo seu tamanho. 
+    Receber um conjunto de palavras e retorna este mesmo conjunto ordenado 
+    pelo tamanho das palavras decrescente, porém, se o tamanho das 
+    palavras for igual, retorna as palavras em ordem alfabética.
+
+    A primeira linha da entrada possui um único inteiro N, que indica o número 
+    de casos de teste. Cada caso de teste poderá conter de 1 a 50 palavras inclusive,
+    e cada uma das palavras poderá conter entre 1 e 50 caracteres inclusive. 
+    Os caracteres poderão ser espaços, letras, ou números.
+
+    A saída contem o conjunto de palavras da entrada ordenados
+
+*/
+
 let casos = parseInt(gets()); // Recebe quantidade de testes
 let palavras = []; 
 
