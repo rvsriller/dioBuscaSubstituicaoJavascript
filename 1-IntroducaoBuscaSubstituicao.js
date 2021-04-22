@@ -14,8 +14,8 @@
 
 */
 
-let casos = parseInt(gets()); // Recebe quantidade de testes
-let palavras = []; 
+let casos = parseInt(gets()); // Contém a quantidade de casos de teste, sendo um N do tipo inteiro
+let palavras = []; //Vetor para armazenar as palavras 
 
 
 
