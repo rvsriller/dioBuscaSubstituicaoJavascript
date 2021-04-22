@@ -4,7 +4,7 @@ Javascript Game Developer Bootcamp da Digital Innovation One
 
 <br/>
 
-Tópicos sobre Strings | Desafios DIO
+Tópicos sobre Strings - Nível Intermediário | Desafios DIO
 
 As soluções dos desafios estão escritos na linguagem Javascript ES6, considerando algumas funções essenciais apresentadas anteriormente em algumas aulas.
 
