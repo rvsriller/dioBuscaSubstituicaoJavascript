@@ -21,7 +21,7 @@ Ordenando palavras utilizando o tamanho de caracteres.
 
 #### [Desafio 2](1-EncontreAmaiorSubstring.js)
 
-Encontre a maior substring
+Encontre a maior substring.
 Analisando e encontrando a maior substring das strings processadas.
 
 #### [Desafio 3](3-ValidadorDeSenha.js)
