@@ -36,5 +36,5 @@ Pedra, Papel, Tesoura, Lagarto e Spock (Nova versão).
 
 #### [Desafio 5](5-AtalhosWeblogger.js)
 
-Atalhos para o Weblogger Brasil
+Atalhos para o Weblogger Brasil.
 Editor de posts para o blog
