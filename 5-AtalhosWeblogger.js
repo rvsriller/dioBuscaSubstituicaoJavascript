@@ -69,5 +69,4 @@ while (true) {
   
   console.log(formattedLetters.join(""));
 }
-
 */
