@@ -10,7 +10,7 @@
     e cada uma das palavras poderá conter entre 1 e 50 caracteres inclusive. 
     Os caracteres poderão ser espaços, letras, ou números.
 
-    A saída contem o conjunto de palavras da entrada ordenados
+    A saída contem o conjunto de palavras da entrada em uma lista ordenados
 
 */
 
