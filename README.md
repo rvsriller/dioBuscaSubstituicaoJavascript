@@ -31,7 +31,8 @@ Verificando caracteres e validando senhas.
 
 #### [Desafio 4](4-Jogo.js)
 
-Jogo de Pedra, Papel, Tesoura, Lagarto e Spock (Nova versão).
+Novo Jogo
+Pedra, Papel, Tesoura, Lagarto e Spock (Nova versão).
 
 #### [Desafio 5](5-AtalhosWeblogger.js)
 
